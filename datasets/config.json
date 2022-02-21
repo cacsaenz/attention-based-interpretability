@@ -1,0 +1,47 @@
+{
+    "V_DS1": {
+        "folder": "V-DS1",
+        "mapper": {
+            "antisinovax": 0,
+            "antivax": 1,
+            "provax": 2
+        }
+    },
+    "V_DS2": {
+        "folder": "V-DS2",
+        "mapper": {
+            "antisinovax": 0,
+            "provax": 1
+        }
+    },
+    "V_DS3": {
+        "folder": "V-DS2",
+        "mapper": {
+            "antivax": 0,
+            "provax": 1
+        }
+    },
+    "SI_DS1": {
+        "folder": "SI-DS1",
+        "mapper": {
+            "chloroquiner": 0,
+            "neutral": 1,
+            "quarentener": 2
+        }
+    },
+    "SI_DS2": {
+        "folder": "SI-DS2",
+        "mapper": {
+            "chloroquiner": 0,
+            "quarentener": 1
+        }
+    },
+    "H_DS": {
+        "folder": "H-DS",
+        "mapper": {
+            "against": 0,
+            "neutral": 1,
+            "favor": 2
+        }
+    }
+}

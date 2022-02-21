@@ -1,0 +1,42 @@
+{
+  "SI_DS1": {
+    "complete": {
+      "total": 237641,
+      "chloroquiner": 45646,
+      "neutral": 174557,
+      "quarentener": 17438
+    },
+    "sample": {
+      "total": 6000,
+      "chloroquiner": 2000,
+      "neutral": 2000,
+      "quarentener": 2000
+    }
+  },
+  "SI_DS2": {
+    "complete": {
+      "total": 63084,
+      "chloroquiner": 45646,
+      "quarentener": 17438
+    },
+    "sample": {
+      "total": 6000,
+      "chloroquiner": 3000,
+      "quarentener": 3000
+    }
+  },
+  "H_DS": {
+    "complete": {
+      "total": 9726,
+      "against": 3901,
+      "neutral": 2112,
+      "favor": 3713
+    },
+    "sample": {
+      "total": 6000,
+      "against": 2000,
+      "neutral": 2000,
+      "favor": 2000
+    }
+  }
+}
